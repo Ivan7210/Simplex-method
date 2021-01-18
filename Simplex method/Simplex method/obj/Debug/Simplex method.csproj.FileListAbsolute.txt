@@ -1,0 +1,39 @@
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\bin\Debug\Simplex method.exe.config
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\bin\Debug\Simplex method.exe
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\bin\Debug\Simplex method.pdb
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\obj\Debug\Simplex method.csprojAssemblyReference.cache
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\obj\Debug\Simplex_method.Form1.resources
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\obj\Debug\Simplex_method.Properties.Resources.resources
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\obj\Debug\Simplex method.csproj.GenerateResource.cache
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\obj\Debug\Simplex method.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\obj\Debug\Simplex method.exe
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\obj\Debug\Simplex method.pdb
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\bin\Debug\SimplexLibrary.dll
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\bin\Debug\SimplexLibrary.pdb
+C:\Users\IvanA\OneDrive\Desktop\Simplex method\Simplex method\obj\Debug\Simplex method.csproj.CopyComplete
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\bin\Debug\Simplex method.exe.config
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\bin\Debug\Simplex method.exe
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\bin\Debug\Simplex method.pdb
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\bin\Debug\SimplexLibrary.dll
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\bin\Debug\SimplexLibrary.pdb
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\obj\Debug\Simplex method.csprojAssemblyReference.cache
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\obj\Debug\Simplex_method.Form1.resources
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\obj\Debug\Simplex_method.Properties.Resources.resources
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\obj\Debug\Simplex method.csproj.GenerateResource.cache
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\obj\Debug\Simplex method.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\obj\Debug\Simplex method.csproj.CopyComplete
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\obj\Debug\Simplex method.exe
+C:\Users\IvanA\OneDrive\Desktop\Development\Simplex method\Simplex method\obj\Debug\Simplex method.pdb
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\bin\Debug\Simplex method.exe.config
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\bin\Debug\Simplex method.exe
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\bin\Debug\Simplex method.pdb
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\bin\Debug\SimplexLibrary.dll
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\bin\Debug\SimplexLibrary.pdb
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Debug\Simplex method.csprojAssemblyReference.cache
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Debug\Simplex_method.Form1.resources
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Debug\Simplex_method.Properties.Resources.resources
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Debug\Simplex method.csproj.GenerateResource.cache
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Debug\Simplex method.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Debug\Simplex method.csproj.CopyComplete
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Debug\Simplex method.exe
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Debug\Simplex method.pdb

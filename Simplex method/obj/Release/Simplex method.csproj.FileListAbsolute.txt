@@ -1,0 +1,26 @@
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\bin\Release\Simplex method.exe.config
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\bin\Release\Simplex method.exe
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\bin\Release\Simplex method.pdb
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\bin\Release\SimplexLibrary.dll
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\bin\Release\SimplexLibrary.pdb
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex method.csprojAssemblyReference.cache
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex_method.Form1.resources
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex_method.Properties.Resources.resources
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex method.csproj.GenerateResource.cache
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex method.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex method.csproj.CopyComplete
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex method.exe
+C:\Users\IvanA\OneDrive\Desktop\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex method.pdb
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\bin\Release\Simplex method.exe.config
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\bin\Release\Simplex method.exe
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\bin\Release\Simplex method.pdb
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\bin\Release\SimplexLibrary.dll
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\bin\Release\SimplexLibrary.pdb
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex method.csprojAssemblyReference.cache
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex_method.Form1.resources
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex_method.Properties.Resources.resources
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex method.csproj.GenerateResource.cache
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex method.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex method.csproj.CopyComplete
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex method.exe
+C:\Users\IvanA\OneDrive\Desktop\Учеба\Архив\Проекты\Легков\Simplex method\Simplex method\obj\Release\Simplex method.pdb

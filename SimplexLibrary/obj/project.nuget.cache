@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2EalvfUacQwYP0aq/5+EeKjvLU4JoMrRuAy88pJZFRxB2aIZkhkPkquaCcehzW2x+uVSJkWBufENbWGuzifaCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IvanA\\OneDrive\\Desktop\\Учеба\\Архив\\Проекты\\Легков\\Simplex method\\SimplexLibrary\\SimplexLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IvanA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\IvanA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
